@@ -1,0 +1,79 @@
+Agent5 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Agent:5 ,cardnum:6046, Cruise:1， ticketnum:2, price:80
+Agent2 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent3 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent5 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Agent:5 ,cardnum:5235, Cruise:2， ticketnum:1, price:78.5448407202216
+Agent5 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Agent:5 ,cardnum:5610, Cruise:1， ticketnum:1, price:90
+Agent4 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent3 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent5 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent1 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Agent:1 ,cardnum:5311, Cruise:1， ticketnum:1, price:95
+Agent2 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Agent:2 ,cardnum:6307, Cruise:2， ticketnum:1, price:94.96813510824148
+Agent3 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent2 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Agent:2 ,cardnum:5011, Cruise:2， ticketnum:1, price:82.3531674370706
+Agent1 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Agent:1 ,cardnum:6495, Cruise:1， ticketnum:2, price:90
+Agent2 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent1 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Agent:1 ,cardnum:5872, Cruise:1， ticketnum:2, price:77.5
+Agent4 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Agent:4 ,cardnum:6982, Cruise:2， ticketnum:2, price:71.53990852013004
+Agent5 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Agent:5 ,cardnum:5929, Cruise:1， ticketnum:1, price:85
+Agent4 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Agent:4 ,cardnum:5220, Cruise:2， ticketnum:1, price:84.4398446978598
+Agent5 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent1 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order
+Agent3 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Agent:3 ,cardnum:5462, Cruise:1， ticketnum:2, price:72.5
+Agent5 receive pricecut from Cruise2. Start to order
+The order was submitted!
+Agent:5 ,cardnum:5240, Cruise:2， ticketnum:3, price:53.11279823903847
+Agent4 receive pricecut from Cruise1. Start to order
+The order was submitted!
+Wrong Card Number
+Order cancell due to the invalid order

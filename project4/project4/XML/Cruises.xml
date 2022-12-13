@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cruises>
+	<Cruise FoundedIn="1972">
+	<ParentCompany>Carnival Corporation</ParentCompany>
+	<Name>Mardi Gras</Name>
+	<Reservation>
+		<Phone>1-800-CARNIVAL</Phone>
+		<Url>www.carnival.com</Url>
+	</Reservation>
+	<DeparturePorts>Port Canaveral (Orlando), FL</DeparturePorts><DeparturePorts>London (Southampton), England</DeparturePorts>
+	<Headquarter Zip="33178">
+		<City>Miami</City>
+		<State>Florida</State>
+	</Headquarter>
+	
+	</Cruise>
+
+	<Cruise>
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Carnival Jubilee</Name>
+		<Reservation>
+			<Phone>1-800-CARNIVAL</Phone>
+			<Url>www.asu.edu</Url>
+		</Reservation>
+		<DeparturePorts>Galveston, TX</DeparturePorts>
+		<DeparturePorts>London (Southampton), England</DeparturePorts>
+		<Headquarter Zip="77550">
+			<City>Galveston</City>
+			<State>TX</State>
+		</Headquarter>
+	</Cruise>
+	
+	<Cruise FoundedIn="1972">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Carnival Celebration</Name>
+		<Reservation>
+			<Url>www.carnival.com</Url>
+			<Phone>1-800-CARNIVAL</Phone>
+		</Reservation>
+		<DeparturePorts>London (Southampton), England</DeparturePorts>
+		<DeparturePorts>Miami, FL</DeparturePorts>
+		<Headquarter Zip="33178">
+			<State>Florida</State>
+			<City>Miami</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise>
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Carnival Luminosa</Name>
+		<Reservation>
+			<Url>www.carnival.com</Url>
+			<Phone>1-800-CARNIVAL</Phone>
+		</Reservation>
+		<DeparturePorts>Brisbane, Australia,</DeparturePorts>
+		<DeparturePorts>Seattle, WA</DeparturePorts>
+		<Headquarter Zip="4702">
+			<State>Australia</State>
+			<City>Brisbane</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="2021">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Carnival Radiance</Name>
+		<Reservation>
+			<Url>www.carnival.com</Url>
+			<Phone>1-800-CARNIVAL</Phone>
+		</Reservation>
+		<DeparturePorts>Los Angeles (Long Beach), CA</DeparturePorts>
+		<DeparturePorts>Charleston, SC</DeparturePorts><Headquarter Zip="90802">
+			<State>CA</State>
+			<City>Long Beach</City>
+		</Headquarter>
+		
+	</Cruise>
+	<Cruise FoundedIn="1998">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Carnival Paradise</Name>
+		<Reservation>
+			<Url>www.carnival.com</Url>
+			<Phone>1-800-CARNIVAL</Phone>
+		</Reservation>
+		<DeparturePorts>Tampa, FL</DeparturePorts><DeparturePorts>Brisbane, Australia,</DeparturePorts>
+		<Headquarter Zip="33606">
+			<State>FL</State>
+			<City>Tampa</City>
+		</Headquarter>
+		
+	</Cruise>
+	<Cruise FoundedIn="1998">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Carnival Elation</Name>
+		<Reservation>
+			<Url>www.carnival.com</Url>
+			<Phone>1-800-CARNIVAL</Phone>
+		</Reservation>
+		<DeparturePorts>Jacksonville, FL</DeparturePorts>
+		<DeparturePorts>Fort Lauderdale, Florida</DeparturePorts><Headquarter Zip="32920">
+			<State>FL</State>
+			<City>Cape Canaveral</City>
+		</Headquarter>
+		
+	</Cruise>
+	<Cruise FoundedIn="2013">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Carnival Sunshine</Name>
+		<Reservation>
+			<Url>www.carnival.com</Url>
+			<Phone>1-800-CARNIVAL</Phone>
+		</Reservation>
+		<DeparturePorts>Charleston, SC</DeparturePorts><DeparturePorts>Miami, FL</DeparturePorts>
+		<Headquarter Zip="29401">
+			<State>SC</State>
+			<City>Charleston</City>
+		</Headquarter>
+		
+	</Cruise>
+	<Cruise>
+		<ParentCompany>Royal Caribbean International</ParentCompany>
+		<Name>MARINER OF THE SEAS</Name>
+		<Reservation>
+			<Url>https://www.royalcaribbean.com/cruises/?shipCode_MA=true</Url>
+			<Phone>866-562-7625</Phone>
+		</Reservation>
+		<DeparturePorts>Orlando (Port Canaveral), Florida</DeparturePorts>
+		<DeparturePorts>Galveston, Texas</DeparturePorts><Headquarter Zip="32920">
+			<State>FL</State>
+			<City>Cape Canaveral</City>
+		</Headquarter>
+		
+	</Cruise>
+	<Cruise>
+		<ParentCompany>Royal Caribbean International</ParentCompany>
+		<Name>ADVENTURE OF THE SEAS</Name>
+		<Reservation>
+			<Url>https://www.royalcaribbean.com/cruises/?shipCode_AD=true</Url>
+			<Phone>866-562-7625</Phone>
+		</Reservation>
+		<DeparturePorts>Fort Lauderdale, Florida</DeparturePorts>
+		<DeparturePorts>Orlando (Port Canaveral), Florida</DeparturePorts>
+		<DeparturePorts>Galveston, Texas</DeparturePorts>
+		<Headquarter Zip="32920">
+			<State>FL</State>
+			<City>Cape Canaveral</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn9">
+		<ParentCompany>Royal Caribbean International</ParentCompany>
+		<Name>HARMONY OF THE SEAS</Name>
+		<Reservation>
+			<Url>https://www.royalcaribbean.com/cruises?shipCode_HM=true</Url>
+			<Phone>866-562-7625</Phone>
+		</Reservation>
+		<DeparturePorts>Galveston, Texas</DeparturePorts>
+		<DeparturePorts>Fort Lauderdale, Florida</DeparturePorts>
+		<DeparturePorts>Miami, Florida</DeparturePorts>
+		<Headquarter Zip="33316">
+			<State>FL</State>
+			<City>Fort Lauderdale</City>
+		</Headquarter>
+	</Cruise>
+	
+</Cruises>

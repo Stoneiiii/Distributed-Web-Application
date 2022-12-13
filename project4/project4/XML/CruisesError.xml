@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cruises>
+	<Cruise FoundedIn="1972">
+	<ParentCompany>Carnival Corporation</ParentCompany>
+	
+	<Reservation>
+		<Phone>1-800-CARNIVAL</Phone>
+		<Url>www.carnival.com</Url>
+	</Reservation>
+	<DeparturePorts>Baltimore</DeparturePorts>
+	<DeparturePorts>Los Angles</DeparturePorts>
+	<Headquarter Zip="33178">
+		<City>Miami</City>
+		<State>Florida</State>
+	</Headquarter>
+	</Cruise>
+
+	<Cruise FoundedIn="FoundedIn1">
+		<ParentCompany>ParentCompany1</ParentCompany>
+		<Name>Name1</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts1</DeparturePorts>
+		<DeparturePorts>DeparturePorts2</DeparturePorts>
+		<DeparturePorts>DeparturePorts3</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State1</State>
+			<City>City1</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State2</State>
+			<City>City2</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State3</State>
+			<City>City3</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn2">
+		<ParentCompany>ParentCompany2</ParentCompany>
+		<Name>Name2</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts4</DeparturePorts>
+		<DeparturePorts>DeparturePorts5</DeparturePorts>
+		<DeparturePorts>DeparturePorts6</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State4</State>
+		
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State5</State>
+			<City>City5</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State6</State>
+			<City>City6</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn3">
+		<ParentCompany>ParentCompany3</ParentCompany>
+		<Name>Name3</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts7</DeparturePorts>
+		<DeparturePorts>DeparturePorts8</DeparturePorts>
+		<DeparturePorts>DeparturePorts9</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State7</State>
+			<City>City7</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State8</State>
+			<City>City8</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State9</State>
+			<City>City9</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn4">
+		<ParentCompany>ParentCompany4</ParentCompany>
+		<Name>Name4</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts10</DeparturePorts>
+		<DeparturePorts>DeparturePorts11</DeparturePorts>
+		<DeparturePorts>DeparturePorts12</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State10</State>
+			<City>City10</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State11</State>
+			<City>City11</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State12</State>
+			<City>City12</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn5">
+		<ParentCompany>ParentCompany5</ParentCompany>
+		<Name>Name5</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts13</DeparturePorts>
+		<DeparturePorts>DeparturePorts14</DeparturePorts>
+		<DeparturePorts>DeparturePorts15</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State13</State>
+			<City>City13</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State14</State>
+			<City>City14</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State15</State>
+			<City>City15</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn6">
+		<ParentCompany>ParentCompany6</ParentCompany>
+		<Name>Name6</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts16</DeparturePorts>
+		<DeparturePorts>DeparturePorts17</DeparturePorts>
+		<DeparturePorts>DeparturePorts18</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State16</State>
+			<City>City16</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State17</State>
+			<City>City17</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State18</State>
+			<City>City18</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn7">
+		<ParentCompany>ParentCompany7</ParentCompany>
+		<Name>Name7</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts19</DeparturePorts>
+		<DeparturePorts>DeparturePorts20</DeparturePorts>
+		<DeparturePorts>DeparturePorts21</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State19</State>
+			<City>City19</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State20</State>
+			<City>City20</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State21</State>
+			<City>City21</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn8">
+		<ParentCompany>ParentCompany8</ParentCompany>
+		<Name>Name8</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts22</DeparturePorts>
+		<DeparturePorts>DeparturePorts23</DeparturePorts>
+		<DeparturePorts>DeparturePorts24</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State22</State>
+			<City>City22</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State23</State>
+			<City>City23</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State24</State>
+			<City>City24</City>
+		</Headquarter>
+	</Cruise>
+	<Cruise FoundedIn="FoundedIn9">
+		<ParentCompany>ParentCompany9</ParentCompany>
+		<Name>Name9</Name>
+		<Reservation>
+			<Url>anyType</Url>
+			<Phone>anyType</Phone>
+		</Reservation>
+		<DeparturePorts>DeparturePorts25</DeparturePorts>
+		<DeparturePorts>DeparturePorts26</DeparturePorts>
+		<DeparturePorts>DeparturePorts27</DeparturePorts>
+		<Headquarter Zip="anySimpleType">
+			<State>State25</State>
+			<City>City25</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State26</State>
+			<City>City26</City>
+		</Headquarter>
+		<Headquarter Zip="anySimpleType">
+			<State>State27</State>
+			<City>City27</City>
+		</Headquarter>
+	</Cruise>
+	
+</Cruises>

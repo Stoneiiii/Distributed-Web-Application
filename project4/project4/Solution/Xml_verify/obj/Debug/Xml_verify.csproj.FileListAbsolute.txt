@@ -1,0 +1,7 @@
+C:\Users\stone\Desktop\445_project4\Solution\Xml_verify\bin\Xml_verify.dll.config
+C:\Users\stone\Desktop\445_project4\Solution\Xml_verify\bin\Xml_verify.dll
+C:\Users\stone\Desktop\445_project4\Solution\Xml_verify\bin\Xml_verify.pdb
+C:\Users\stone\Desktop\445_project4\Solution\Xml_verify\obj\Debug\Xml_verify.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\445_project4\Solution\Xml_verify\obj\Debug\Xml_verify.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\445_project4\Solution\Xml_verify\obj\Debug\Xml_verify.dll
+C:\Users\stone\Desktop\445_project4\Solution\Xml_verify\obj\Debug\Xml_verify.pdb

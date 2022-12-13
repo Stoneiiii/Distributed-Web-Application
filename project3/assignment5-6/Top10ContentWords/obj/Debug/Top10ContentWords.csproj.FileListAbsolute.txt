@@ -1,0 +1,7 @@
+C:\Users\stone\Desktop\assignment3_445\Top10ContentWords\bin\Top10ContentWords.dll.config
+C:\Users\stone\Desktop\assignment3_445\Top10ContentWords\bin\Top10ContentWords.dll
+C:\Users\stone\Desktop\assignment3_445\Top10ContentWords\bin\Top10ContentWords.pdb
+C:\Users\stone\Desktop\assignment3_445\Top10ContentWords\obj\Debug\Top10ContentWords.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\assignment3_445\Top10ContentWords\obj\Debug\Top10ContentWords.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\assignment3_445\Top10ContentWords\obj\Debug\Top10ContentWords.dll
+C:\Users\stone\Desktop\assignment3_445\Top10ContentWords\obj\Debug\Top10ContentWords.pdb

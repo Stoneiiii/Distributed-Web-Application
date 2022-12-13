@@ -1,0 +1,45 @@
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.AssemblyInfoInputs.cache
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.AssemblyInfo.cs
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.exe
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.deps.json
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.runtimeconfig.json
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.dll
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.pdb
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.dll
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\refint\assignment2_445.dll
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.pdb
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.genruntimeconfig.cache
+C:\Users\stone\Desktop\Assignment2_445\assignment2_445\obj\Debug\net6.0\ref\assignment2_445.dll
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.csproj.AssemblyReference.cache
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.GeneratedMSBuildEditorConfig.editorconfig
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.AssemblyInfoInputs.cache
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.AssemblyInfo.cs
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.csproj.CoreCompileInputs.cache
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.dll
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\refint\assignment2_445.dll
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.pdb
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.exe
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.deps.json
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.runtimeconfig.json
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.dll
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\bin\Debug\net6.0\assignment2_445.pdb
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\assignment2_445.genruntimeconfig.cache
+C:\在ASU上课\CSE 445 Distributed Software Development\Assigments\Project2\Assignment2_445\assignment2_445\obj\Debug\net6.0\ref\assignment2_445.dll
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\assignment2_445.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\assignment2_445.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\assignment2_445.AssemblyInfoInputs.cache
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\assignment2_445.AssemblyInfo.cs
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\assignment2_445.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\assignment2_445.dll
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\refint\assignment2_445.dll
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\assignment2_445.pdb
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\bin\Debug\net6.0\assignment2_445.exe
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\bin\Debug\net6.0\assignment2_445.deps.json
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\bin\Debug\net6.0\assignment2_445.runtimeconfig.json
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\bin\Debug\net6.0\assignment2_445.dll
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\bin\Debug\net6.0\assignment2_445.pdb
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\assignment2_445.genruntimeconfig.cache
+C:\Users\stone\Desktop\assignment2_445_2\assignment2_445\obj\Debug\net6.0\ref\assignment2_445.dll

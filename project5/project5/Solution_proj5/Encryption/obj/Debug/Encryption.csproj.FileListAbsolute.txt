@@ -1,0 +1,7 @@
+C:\Users\stone\Desktop\445project5\Solution_proj5\Encryption\bin\Debug\Encryption.dll
+C:\Users\stone\Desktop\445project5\Solution_proj5\Encryption\bin\Debug\Encryption.pdb
+C:\Users\stone\Desktop\445project5\Solution_proj5\Encryption\obj\Debug\Encryption.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\445project5\Solution_proj5\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\445project5\Solution_proj5\Encryption\obj\Debug\Encryption.dll
+C:\Users\stone\Desktop\445project5\Solution_proj5\Encryption\obj\Debug\Encryption.pdb
+C:\Users\stone\Desktop\445project5\Solution_proj5\Encryption\bin\Debug\encrypt.cs

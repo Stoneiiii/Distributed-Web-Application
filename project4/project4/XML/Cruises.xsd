@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xsd:element name="Cruises">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element name="Cruise" maxOccurs="unbounded"
+					minOccurs="1">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="ParentCompany" maxOccurs="1" minOccurs="1" type="xsd:string">
+							</xsd:element>
+							<xsd:element name="Name" maxOccurs="1" minOccurs="1" type="xsd:string">
+							</xsd:element>
+							<xsd:element name="Reservation" maxOccurs="1" minOccurs="1">
+								<xsd:complexType>
+									<xsd:all>
+										<xsd:element name="Phone">
+										</xsd:element>
+										<xsd:element name="Url">
+										</xsd:element></xsd:all></xsd:complexType>
+							</xsd:element>	
+
+							<xsd:element name="DeparturePorts" maxOccurs="unbounded" minOccurs="2" type="xsd:string">
+							</xsd:element>
+							<xsd:element name="Headquarter"
+								maxOccurs="unbounded" minOccurs="1">
+								<xsd:complexType>
+									<xsd:all>
+										<xsd:element name="City"
+											type="xsd:string">
+										</xsd:element>
+										<xsd:element name="State"
+											type="xsd:string">
+										</xsd:element></xsd:all>
+									<xsd:attribute name="Zip"
+										use="required">
+									</xsd:attribute></xsd:complexType>
+							</xsd:element>
+						</xsd:sequence>
+						<xsd:attribute name="FoundedIn" type="xsd:string"
+							use="optional">
+						</xsd:attribute></xsd:complexType>
+				</xsd:element>
+			</xsd:sequence></xsd:complexType>
+	</xsd:element>
+</xsd:schema>

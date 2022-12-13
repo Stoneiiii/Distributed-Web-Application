@@ -1,0 +1,7 @@
+C:\Users\stone\Desktop\445_project4\Solution\XML_operation\bin\XML_operation.dll.config
+C:\Users\stone\Desktop\445_project4\Solution\XML_operation\bin\XML_operation.dll
+C:\Users\stone\Desktop\445_project4\Solution\XML_operation\bin\XML_operation.pdb
+C:\Users\stone\Desktop\445_project4\Solution\XML_operation\obj\Debug\XML_operation.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\445_project4\Solution\XML_operation\obj\Debug\XML_operation.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\445_project4\Solution\XML_operation\obj\Debug\XML_operation.dll
+C:\Users\stone\Desktop\445_project4\Solution\XML_operation\obj\Debug\XML_operation.pdb
