@@ -1,0 +1,8 @@
+C:\Users\stone\Desktop\Assignment1\ConsoleApp1_sort\bin\Debug\ConsoleApp1_sort.exe.config
+C:\Users\stone\Desktop\Assignment1\ConsoleApp1_sort\bin\Debug\ConsoleApp1_sort.exe
+C:\Users\stone\Desktop\Assignment1\ConsoleApp1_sort\bin\Debug\ConsoleApp1_sort.pdb
+C:\Users\stone\Desktop\Assignment1\ConsoleApp1_sort\obj\Debug\ConsoleApp2_SortNum.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\Assignment1\ConsoleApp1_sort\obj\Debug\ConsoleApp2_SortNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\stone\Desktop\Assignment1\ConsoleApp1_sort\obj\Debug\ConsoleApp2_SortNum.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\Assignment1\ConsoleApp1_sort\obj\Debug\ConsoleApp1_sort.exe
+C:\Users\stone\Desktop\Assignment1\ConsoleApp1_sort\obj\Debug\ConsoleApp1_sort.pdb

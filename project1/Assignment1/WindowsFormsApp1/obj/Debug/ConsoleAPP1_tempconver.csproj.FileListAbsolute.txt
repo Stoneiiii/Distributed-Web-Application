@@ -1,0 +1,10 @@
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\obj\Debug\ConsoleAPP1_tempconver.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\obj\Debug\ConsoleAPP1_tempconver.csproj.SuggestedBindingRedirects.cache
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\obj\Debug\ConsoleAPP1_tempconver.csproj.GenerateResource.cache
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\obj\Debug\ConsoleAPP1_tempconver.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\stone\Desktop\Assignment1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

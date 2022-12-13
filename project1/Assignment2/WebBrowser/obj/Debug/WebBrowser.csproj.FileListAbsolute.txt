@@ -1,0 +1,11 @@
+C:\Users\stone\Desktop\Assignment2\WebBrowser\obj\Debug\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\stone\Desktop\Assignment2\WebBrowser\obj\Debug\WebBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\stone\Desktop\Assignment2\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+C:\Users\stone\Desktop\Assignment2\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\stone\Desktop\Assignment2\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\stone\Desktop\Assignment2\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\Assignment2\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\stone\Desktop\Assignment2\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\stone\Desktop\Assignment2\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\stone\Desktop\Assignment2\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\stone\Desktop\Assignment2\WebBrowser\obj\Debug\WebBrowser.pdb
